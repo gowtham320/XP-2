@@ -37,7 +37,7 @@ Procedure
 4.   By  varying  the  generator  field  rheostat  gradually,  the  open  circuit  voltage  [Eo]  and corresponding field current (If) are tabulated up to 125 % of rated voltage of generator.
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Procwdure:
+Procwdure for load test:
 
 1.   Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
@@ -49,29 +49,29 @@ Procwdure:
 
 Tabulation for Open Circuit Test
 
-![op table](https://github.com/user-attachments/assets/944fab4b-1648-403d-959a-d9f502ac9501)
+
 
 Tabulation for Load Test:
 
-![op table](https://github.com/user-attachments/assets/f97f0a63-7f63-406e-8884-d2a95cd9cbc9)
+
 
 Model graph:
 
-![lc table](https://github.com/user-attachments/assets/d66b4d1b-6c14-4e4b-affb-2a4ccd335fb6)
 
 
-![op graph](https://github.com/user-attachments/assets/f333da8d-31d1-463b-bfb2-20c64f27a9cc)
+
+
 
 circit diagram:
 
 Open circuit characteristics
 
 
-<img width="1230" height="836" alt="open characteristics" src="https://github.com/user-attachments/assets/37eb5e45-0963-4dfc-9914-5b7a5d856acb" />
+
 
   
 Load Characteristics:
-<img width="1095" height="870" alt="load characteristics" src="https://github.com/user-attachments/assets/0115ddeb-60fd-46ab-9af1-4290419b3b97" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
