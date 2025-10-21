@@ -49,17 +49,21 @@ Procwdure for load test:
 
 Tabulation for Open Circuit Test
 
+![exp2t1](https://github.com/user-attachments/assets/30d3ab95-cb2c-4b0e-b97c-5bc8c4e24144)
 
 
 Tabulation for Load Test:
 
+![exp2t2](https://github.com/user-attachments/assets/5ff940f6-ce1f-4822-8096-b930e6a522c0)
 
 
 Model graph:
 
+![exp2g1](https://github.com/user-attachments/assets/e29ece75-7e88-4542-9a65-00f84989456d)
 
 
 
+![exp2g2](https://github.com/user-attachments/assets/af5fbdc9-ebf7-4605-8aff-1c5d7e7b10aa)
 
 
 circit diagram:
@@ -67,10 +71,14 @@ circit diagram:
 Open circuit characteristics
 
 
+![exp2c](https://github.com/user-attachments/assets/c42cb11e-6446-4fed-83c7-368ce47163eb)
 
 
   
 Load Characteristics:
+
+
+![exp2c2](https://github.com/user-attachments/assets/2c83bc78-c672-49da-a300-ad4cd20346c6)
 
  
 Result:
